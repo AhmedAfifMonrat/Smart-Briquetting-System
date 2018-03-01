@@ -1,0 +1,2 @@
+# Smart-Briquetting-System
+Arctic Hackathon 2017 was arranged in the city of Skelleftea in Sweden, where different teams took a challenge to solve a problem of the society through the technology of Augmented Reality (AR). Our challenge was to provide automation support for the farmers in the briquette industry. Our team developed an application that provides continues monitoring of the machines through multiple sensors and video streaming using the AR technology and finally won the 2nd prize in the competition.
